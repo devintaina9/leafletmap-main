@@ -1,11 +1,8 @@
 # responsi pgpbl
 
-# Nama Produk :  The Soul of Java: Explore Klaten's Top Tourist Routes
+# The Soul of Java: Explore Klaten's Top Tourist Routes
 
-
-## Deskripsi Produk
-
-WebGIS interaktif yang bertujuan untuk menjelajahi persebaran titik wisata yang menarik di Kabupaten Klaten. WebGIS tersebut menyediakan terkait CRUD, yang meliputi fitur: peta dengan basemap yang berbeda untuk menampilkan persebaran titik wisata di Kabupaten Klaten. Fitur Dashboard mberguna untuk memberikan informasi kepada pengguna terkait informasi pendukung seputar wisata, seperti grafik pengunjung. Ringkasan jumlah persebaran terdapat di dashboard. Nama, foto, lokasi, jam pembuat dan tiket masuk disediakan melalui tabel point (tabel wisata). Latar belakang pembuatan WebGIS ini adalah untuk menignkatkan potensi wisata di Kabupaten Klaten yang jarang tersorot di kancah internasional.
+The Soul of Java: Explore Klaten's Top Tourist Routes merupakan aplikasi yang dirancang untuk membantu para wisatawan dalam menentukan rute perjalanan terbaik menunju wisata populer di Klaten. Explore Klaten's Top Tourist Routes memiliki kelebihan dalam menentukan rute perjalanan wisata dengan jumlah lokasi yang banyak sekaligus yang membantu pengguna dalam memperkirakan waktu perjalanan sekaligus memberikan pengarahan secara bertahap kepada pengguna sesuai jalur/jalan yang dilewati. Explore Klaten's Top Tourist Route juga dilengkapi dengan tujuh macam basemap untuk menyesuaikan selera pengguna selama menggunakan aplikasi tersebut, selain itu setiap titik lokasi wisata yang tertera dalam peta utama dilengkapi dengan nama lokasi wisata, deksripsi singkat mengenai hal yang menarik untuk ditonjolkan masing-masing lokasi, jam buka, tiket masuk dan lokasi secara deskriptif serta gambar yang menarik. Pada map utama aplikasi juga dilengkapi fitur zoom out dan zoom in.
 
 ## Komponen Pembangun Produk
 
