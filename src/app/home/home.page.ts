@@ -106,13 +106,91 @@ export class HomePage {
         description: 'Candi Prambanan adalah candi Hindu terbesar di Indonesia12. Candi ini memiliki tinggi 47 meter dan lebar 34 meter, yang lebih tinggi dari candi sejenisnya2. Letaknya berada di antara 2 wilayah, yaitu Yogyakarta dan Jawa Tengah1. Kompleks Candi Prambanan terdiri dari sekitar 250 candi dan memiliki tiga zona yang berbeda: luar, tengah, dan bagian dalam2. Candi ini terletak di Dusun Karangasem, Desa Bokoharjo, Kecamatan Prambanan, Sleman, Daerah Istimewa Yogyakarta, Jawa Tengah.'
       },
       {
+        coords: [-7.744163005018623, 110.49253672812597],
+        title: 'Candi Sewu',
+        image: 'https://www.indoneo.com/wp-content/uploads/2017/03/prambanan-temple-compund.jpg',
+        description: 'Candi Sewu terletak di kompleks Candi Prambanan, tepatnya di Kabupaten Klaten, Jawa Tengah. Candi Buddha terbesar kedua di Indonesia ini dapat dikunjungi setiap hari mulai pukul 06.00 hingga 17.00 WIB. Tiket masuk ke kompleks Candi Prambanan, termasuk akses ke Candi Sewu, dikenakan biaya sekitar Rp50.000 untuk dewasa domestik, sementara tarif khusus berlaku bagi wisatawan anak-anak dan mancanegara. Candi ini menawarkan keindahan arsitektur kuno dan suasana historis yang memikat.'
+      },
+      {
+        coords: [-7.755575440641052, 110.50092558815113],
+        title: 'Taman Candi Bocah',
+        image: 'https://i.ytimg.com/vi/aHwobDAcZkU/maxresdefault.jpg',
+        description: 'Taman Candi Bocah terletak di Prambanan, Klaten, Jawa Tengah, dan merupakan destinasi wisata yang cocok untuk keluarga. Taman ini menawarkan pemandangan indah dengan latar belakang Candi Prambanan yang megah, serta berbagai fasilitas untuk anak-anak. Pengunjung dapat menikmati berbagai wahana permainan sambil belajar tentang sejarah dan budaya. Taman ini buka setiap hari mulai pukul 08.00 hingga 17.00 WIB. Tiket masuknya sekitar Rp 20.000 per orang, dengan biaya tambahan untuk wahana tertentu. Lokasinya mudah dijangkau, berada di sekitar kompleks Candi Prambanan.'
+      },
+      {
+        coords: [-7.74949447893441, 110.49379805613542],
+        title: 'Museum Candi Prambanan',
+        image: 'https://www.indoneo.com/wp-content/uploads/2017/03/prambanan-temple-compund.jpg',
+        description: 'Candi Sewu terletak di kompleks Candi Prambanan, tepatnya di Kabupaten Klaten, Jawa Tengah. Candi Buddha terbesar kedua di Indonesia ini dapat dikunjungi setiap hari mulai pukul 06.00 hingga 17.00 WIB. Tiket masuk ke kompleks Candi Prambanan, termasuk akses ke Candi Sewu, dikenakan biaya sekitar Rp50.000 untuk dewasa domestik, sementara tarif khusus berlaku bagi wisatawan anak-anak dan mancanegara. Candi ini menawarkan keindahan arsitektur kuno dan suasana historis yang memikat.'
+      },
+      {
+        coords: [-7.605851964461368, 110.64512413802551],
+        title: 'Umbul Sigedang',
+        image: 'https://cdn-2.tstatic.net/tribunnewswiki/foto/bank/images/Umbul-Sigedang-4.jpg',
+        description: 'Umbul Sigedang adalah destinasi wisata mata air alami yang terletak di Desa Dukuh, Kecamatan Banyudono, Kabupaten Boyolali, Jawa Tengah. Tempat ini menawarkan suasana segar dengan air jernih yang berasal langsung dari sumber alami. Umbul ini buka setiap hari mulai pukul 06.00 hingga 18.00 WIB. Tiket masuknya cukup terjangkau, biasanya sekitar Rp10.000 per orang, menjadikannya pilihan favorit untuk rekreasi keluarga atau sekadar bersantai.'
+      },
+      {
+        coords: [-7.574173356111453, 110.4668851948398],
+        title: 'Deles Indah',
+        image: 'https://poskita.co/wp-content/uploads/2018/11/23-2a.jpg',
+        description: 'Deles Indah terletak di Desa Sidorejo, Kecamatan Kemalang, Klaten, Jawa Tengah. Berada di lereng Gunung Merapi, tempat ini menawarkan udara sejuk dan pemandangan alam yang memukau, seperti panorama Gunung Merapi dan hamparan perbukitan hijau. Beberapa spot menarik yang dapat dikunjungi di kawasan ini antara lain Goa Jepang, Makam Kyai Mlayopati, dan Bukit Pring Cendani. Deles Indah cocok untuk jalan-jalan santai, piknik keluarga, atau sekadar menikmati suasana alam yang tenang. Harga tiket masuknya sangat terjangkau, yaitu Rp5.000 pada hari biasa dan Rp7.500 saat akhir pekan atau libur nasional. Tempat ini buka setiap hari mulai pukul 08.00 hingga 17.00 WIB, menjadikannya destinasi ideal untuk rekreasi.'
+      },
+      {
+        coords: [-7.7612166674661545, 110.49623580592606],
+        title: 'Candi Sojiwan',
+        image: 'https://redaksi.inibaru.id/nuploads/62/Candi%20Sojiwan.jpg',
+        description: 'Candi Sojiwan terletak di Desa Kebon Dalem Kidul, Kecamatan Prambanan, Klaten, Jawa Tengah. Candi ini merupakan candi peninggalan abad ke-9 yang bercorak Buddha dan dikenal dengan relief yang menggambarkan cerita fabel. Dikelilingi taman hijau yang asri, Candi Sojiwan cocok untuk wisata sejarah dan bersantai. Tiker masuk 25.000, dan tempat ini buka setiap hari.'
+      },
+      {
+        coords: [-7.6137951597618985, 110.63586267073266],
+        title: 'Umbul Ponggok Klaten',
+        image: 'https://www.hargatiket.net/wp-content/uploads/2018/07/Harga-Tiket-Masuk-Umbul-Ponggok-Klaten.jpg',
+        description: 'Umbul Ponggok terletak di Desa Ponggok, Kecamatan Polanharjo, Kabupaten Klaten, Jawa Tengah. Umbul ini merupakan salah satu destinasi wisata air populer yang menawarkan pengalaman unik bagi pengunjung. Dengan kolam alami yang luas dan jernih, Umbul Ponggok menjadi tempat favorit untuk snorkeling dan fotografi bawah air. Pengunjung dapat menyewa perlengkapan snorkeling dan menikmati keindahan dasar kolam yang dihiasi pasir, bebatuan, serta berbagai properti unik untuk berfoto. Biaya masuk adalah Rp10.000 pada hari biasa dan Rp15.000 saat akhir pekan atau libur nasional, menjadikannya pilihan wisata yang terjangkau dan menyenangkan.'
+      },
+      {
+        coords: [-7.743959547228257, 110.49609152182974],
+        title: 'Candi Gana',
+        image: 'https://photodharma.net/Recent/Malang.jpg',
+        description: 'Candi Gana terletak di Desa Bugisan, Kecamatan Prambanan, Klaten, Jawa Tengah. Candi Hindu ini dibangun pada abad ke-9 dan memiliki arsitektur yang sederhana namun tetap menarik. Meskipun sebagian besar bangunannya sudah rusak, reruntuhan yang ada masih mencerminkan kemegahan candi pada masa lalu. Candi Gana menjadi salah satu destinasi yang menarik bagi pengunjung yang ingin mempelajari sejarah dan budaya Jawa Kuno. Dengan harga tiket masuk yang terjangkau, yaitu Rp5.000, Candi Gana buka setiap hari mulai pukul 08.00 hingga 17.00 WIB, menjadikannya pilihan tepat untuk wisata sejarah.'
+      },
+      {
+        coords: [-7.58307278740983, 110.46191217949854],
+        title: 'Kali Talang',
+        image: 'https://img.inews.co.id/media/600/files/inews_new/2019/05/31/merapi2.jpg',
+        description: 'Kali Talang terletak di Kabupaten Klaten, Jawa Tengah, dan menawarkan pemandangan sungai yang indah serta suasana alam yang tenang. Tempat ini sering dikunjungi untuk berfoto, bersantai, atau menikmati aktivitas seperti memancing. Dengan akses yang mudah dari pusat kota, Kali Talang menjadi pilihan tepat untuk relaksasi. Tiket masuknya gratis, namun ada biaya untuk parkir atau aktivitas tertentu. Kali Talang buka setiap hari dari pukul 08.00 hingga 17.00 WIB.'
+      },
+      {
+        coords: [-7.682874898347335, 110.65733076544325],
+        title: 'Sendang Tirto Sinongko',
+        image: 'https://www.taraletsanywhere.com/wp-content/uploads/2023/10/malbog-sulfur-spring-by-mimaropaventures.jpg',
+        description: 'Sendang Tirto Sinongko terletak di Desa Kranggan, Kecamatan Polanharjo, Klaten, Jawa Tengah. Tempat ini dikenal dengan mata air alami yang jernih dan dipercaya memiliki khasiat bagi kesehatan. Sendang Tirto Sinongko sering dikunjungi oleh warga setempat dan wisatawan untuk berendam atau sekadar menikmati keindahan alam sekitar. Tiket masuknya sangat terjangkau, yaitu Rp5.000 per orang. Tempat ini buka setiap hari dari pukul 08.00 hingga 17.00 WIB, menjadikannya sebagai destinasi wisata alam yang cocok untuk relaksasi dan wisata keluarga.'
+      },
+      {
+        coords: [-7.702311598184126, 110.55803765015365],
+        title: 'Pluneng Water Park',
+        image: 'https://renangloka.com/wp-content/uploads/2022/09/pluneng-water-park.jpeg',
+        description: 'Pluneng Water Park terletak di Desa Pluneng, Kecamatan Kebonarum, Klaten, Jawa Tengah. Tempat wisata ini menawarkan wahana air yang menyenangkan dengan kolam renang dari sumber mata air alami yang jernih dan segar. Pluneng Water Park cocok untuk rekreasi keluarga, terutama anak-anak yang ingin bermain air dengan aman. Tiket masuknya cukup terjangkau, yaitu Rp10.000 pada hari biasa dan Rp15.000 saat akhir pekan atau hari libur. Tempat ini buka setiap hari dari pukul 08.00 hingga 17.00 WIB, menjadikannya pilihan tepat untuk menghabiskan waktu santai bersama keluarga.'
+      },
+      {
+        coords: [-7.705518778273898, 110.60179149484134],
+        title: 'Alun-alun Klaten',
+        image: 'https://dishub.klaten.go.id/compro/uploads/images/image_650x433_63f81547c1a9b.jpg',
+        description: 'Alun-Alun Klaten terletak di pusat Kota Klaten, Jawa Tengah, dan merupakan ruang terbuka hijau yang menjadi ikon kota. Tempat ini sering digunakan sebagai lokasi untuk bersantai, berolahraga, atau menikmati kuliner dari pedagang kaki lima di sekitarnya. Alun-Alun Klaten cocok untuk rekreasi keluarga atau sekadar menikmati suasana kota yang nyaman. Tidak ada biaya masuk untuk menikmati kawasan ini, sehingga pengunjung dapat datang kapan saja. Alun-Alun Klaten buka setiap hari selama 24 jam, menjadikannya tempat yang selalu ramai dikunjungi, terutama di sore dan malam hari.'
+      },
+      {
         coords: [-7.637981198840965, 110.59853130814577],
         title: 'Umbul Jolotundo',
         image: 'https://www.nativeindonesia.com/foto/2023/05/umbul-jolotundo.jpg',
         description: 'Umbul Jolotundo terletak di Jalan Klaten - Jatinom No.7, Dusun I, Gedaren, Kec. Jatinom, Kabupaten Klaten, Jawa Tengah12345. Tempat ini berjarak sekitar 10 km dari pusat kota Klaten dan dapat ditempuh dalam waktu 20-30 menit.'
       },
       {
-        coords: [-7.745154842026572, 110.62531048526418],
+        coords: [-7.741176658323621, 110.50457367195744],
+        title: 'Candi Plaosan',
+        image: 'https://i1.wp.com/www.itrip.id/wp-content/uploads/2020/12/Candi-Plaosan.jpg',
+        description: 'Candi Plaosan terletak di Desa Bugisan, Kecamatan Prambanan, Kabupaten Klaten, Jawa Tengah. Candi ini merupakan salah satu kompleks candi peninggalan abad ke-9 yang dibangun pada masa Kerajaan Mataram Kuno. Kompleks Candi Plaosan terdiri dari dua bagian utama, yaitu Candi Plaosan Lor dan Candi Plaosan Kidul, yang dikenal dengan arsitekturnya yang unik dan artistik. Pengunjung dapat menikmati keindahan candi yang dikelilingi oleh suasana pedesaan yang asri. Biaya masuk ke Candi Plaosan adalah Rp10.000 untuk wisatawan lokal dan Rp30.000 untuk wisatawan mancanegara.'
+      },
+      {
+        coords: [-7.758543665823617, 110.63359835656648],
         title: 'Rowo Jombor Klaten',
         image: 'https://media-cdn.tripadvisor.com/media/photo-s/16/1a/6a/da/suasana-rowo-jombor-dipagi.jpg',
         description: 'Rowo Jombor adalah waduk yang terletak di Desa Wisata Krakitan, Kecamatan Bayat, sekitar delapan kilometer ke arah tenggara dari pusat Kota Klaten, Jawa Tengah, Indonesia12345. Waduk ini digunakan untuk mengairi lahan pertanian di sekitarnya dan juga sebagai obyek pariwisata. Rowo Jombor memiliki luas 198 hektare dengan kedalaman hingga 4,5 meter2.'
