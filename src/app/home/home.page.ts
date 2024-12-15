@@ -100,13 +100,19 @@ export class HomePage {
     // Markers with popups
     const markerLocations: { coords: [number, number]; title: string; image: string; description: string }[] = [
       {
-        coords: [-7.740888969687221, 110.49237787019925],
+        coords: [-7.7521321387829785, 110.4923212362342],
         title: 'Candi Prambanan',
         image: 'https://kitakabari.com/wp-content/uploads/2022/01/Candi-Prambanan-Sleman-e1641614754771-2048x1376.jpg',
         description: 'Candi Prambanan adalah candi Hindu terbesar di Indonesia12. Candi ini memiliki tinggi 47 meter dan lebar 34 meter, yang lebih tinggi dari candi sejenisnya2. Letaknya berada di antara 2 wilayah, yaitu Yogyakarta dan Jawa Tengah1. Kompleks Candi Prambanan terdiri dari sekitar 250 candi dan memiliki tiga zona yang berbeda: luar, tengah, dan bagian dalam2. Candi ini terletak di Dusun Karangasem, Desa Bokoharjo, Kecamatan Prambanan, Sleman, Daerah Istimewa Yogyakarta, Jawa Tengah.'
       },
       {
-        coords: [-7.744163005018623, 110.49253672812597],
+        coords: [-7.633994449197346, 110.55033681564458],
+        title: 'Gunung Candi',
+        image: 'https://m-kuta.com/wp-content/uploads/2019/03/Candi-Gunung-Kawi.jpg',
+        description: 'Gunung Candi adalah destinasi wisata alam yang terletak di Desa Tempursari, Kecamatan Ngawen, Kabupaten Klaten, Jawa Tengah. Tempat ini menawarkan panorama perbukitan kapur yang indah dengan suasana sejuk dan asri, menjadikannya cocok untuk bersantai, berfoto, atau menikmati pemandangan alam. Wisatawan dapat berkunjung setiap hari mulai pukul 06.00 hingga 18.00 WIB dengan harga tiket masuk yang terjangkau, sekitar Rp 5.000 hingga Rp 10.000 per orang. Selain keindahan alamnya, Gunung Candi juga menjadi favorit para pengunjung untuk menikmati momen sunrise atau sunset dari ketinggian yang memukau.'
+      },
+      {
+        coords: [-7.74416832050295, 110.49355596737121],
         title: 'Candi Sewu',
         image: 'https://www.indoneo.com/wp-content/uploads/2017/03/prambanan-temple-compund.jpg',
         description: 'Candi Sewu terletak di kompleks Candi Prambanan, tepatnya di Kabupaten Klaten, Jawa Tengah. Candi Buddha terbesar kedua di Indonesia ini dapat dikunjungi setiap hari mulai pukul 06.00 hingga 17.00 WIB. Tiket masuk ke kompleks Candi Prambanan, termasuk akses ke Candi Sewu, dikenakan biaya sekitar Rp50.000 untuk dewasa domestik, sementara tarif khusus berlaku bagi wisatawan anak-anak dan mancanegara. Candi ini menawarkan keindahan arsitektur kuno dan suasana historis yang memikat.'
