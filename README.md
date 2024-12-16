@@ -8,7 +8,7 @@ The Soul of Java: Explore Klaten's Top Tourist Routes merupakan aplikasi yang di
 
 ## Komponen Pembangun Produk
 
-1.   Visual Studio Code         : Untuk pembuatan struktur dan mengatur tampilan WebGIS.
+1.   Visual Studio Code         : Untuk pembuatan struktur dan mengatur tampilan map pada aplikasi.
 2.	 Ionic Framework → Angular  : Library untuk pembuatan peta lokasi wisata utama.
 3.	 Leaflet JS                 : Library untuk menampilkan peta interaktif dengan lokasi wisata.
 4.	 Vercel                     : Platform untuk publikasi halaman peta.
